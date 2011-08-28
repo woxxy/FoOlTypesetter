@@ -50,13 +50,13 @@ var processTranslation = function(folder)
 				alert("One page didn't have a number coming with it (line " + (i+1) + " " + lines[i] + ")");
 				return false;
 			}
-			currentPage = currentPageTemp[0];
+			currentPage = currentPageTemp[0].replace(/^0+/, '');
 			result[currentPage] = [];
 		}
 	
 		var speech = lines[i].match(/^:(\w+):(.*)$/i);
 		if(speech instanceof Array)
-		{
+		{ $.write(currentPage + " - " +speech[1] + ": " + speech[2] + "\n");
 			var character = speech[1];
 			var text = speech[2].replace(/^\s+|\s+$/g, '');
 			if(character.toLowerCase() == "sfx")
@@ -95,7 +95,7 @@ var processFolder = function(folder, translationArr)
 			continue;
 		}
 	
-		var strings = translationArr[numArr[numArr.length-1]];
+		var strings = translationArr[numArr[numArr.length-1].replace(/^0+/, '')];
 		if(strings instanceof Object)
 		{
 			open(file);
