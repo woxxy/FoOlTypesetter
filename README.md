@@ -36,8 +36,8 @@ An example
 ----------
 
 This is the standard that we use.
-
-`==== Page 1: ====
+`
+==== Page 1: ====
 :Nagi: Oh!
 :Nagi: Long time no see.
 ----
@@ -85,4 +85,5 @@ Chapter 37: Cut Down Part 1
 :SFX: bun *throw*
 ----
 :SFX: pasha *splash*
-----`
+----
+`
