@@ -56,7 +56,7 @@ var processTranslation = function(folder)
 	
 		var speech = lines[i].match(/^:(\w+):(.*)$/i);
 		if(speech instanceof Array)
-		{ $.write(currentPage + " - " +speech[1] + ": " + speech[2] + "\n");
+		{
 			var character = speech[1];
 			var text = speech[2].replace(/^\s+|\s+$/g, '');
 			if(character.toLowerCase() == "sfx")
