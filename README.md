@@ -3,6 +3,10 @@ FoOlTypesetter
 
 FoOlTypesetter.jsx can read the Wiki comic scripts from FoOlRulez standards and insert the lines in PSDs via Photoshop
 
+Don't trust it
+--------------
+This can read only very obvious precise format. Shit happens.
+
 How to install
 --------------
 Open Photoshop, Files>Scripts>Browse...
