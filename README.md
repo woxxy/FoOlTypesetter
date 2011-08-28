@@ -11,6 +11,10 @@ How to install
 --------------
 Open Photoshop, Files>Scripts>Browse...
 
+of
+
+Drag and drop it in Photoshop
+
 How to use
 ----------
 1. Put the script in a txt file with any name (possibly no numbers in filename)
