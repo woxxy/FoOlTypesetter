@@ -36,54 +36,54 @@ An example
 ----------
 
 This is the standard that we use.
-`
-==== Page 1: ====
-:Nagi: Oh!
-:Nagi: Long time no see.
-----
-:Nagi: Where did I go, you ask?
-:Nagi: Well, I had some unavoidable circumstances...
-:SFX: moji *fidget*
-:Nagi: What?
-:Nagi: Has it been that long?
-----
-:Nagi: S... Sorry.
-:Nagi: Truthfully,
-:Nagi: I'm sorry for making you worry...
-----
-:Nagi: But I'm very happy that we're able to meet again!
-:Nagi: The story continues from page 5!
-----
-==== Page 2: ====
-:Jin: Nagi...?
-<s>::''Toshi: [Text on the side worth translating?]''</s> ''no''
-----
 
-==== Page 3: ====
-==== Page 4: ====
-Title:
-Chapter 37: Cut Down Part 1
-<s>::''Toshi: [Lots of text on this double page that should probably be translated.]''</s> ''Necro: We never do that sort of text.  Looks like a pain to redraw anyway''
-----
+	==== Page 1: ====
+	:Nagi: Oh!
+	:Nagi: Long time no see.
+	----
+	:Nagi: Where did I go, you ask?
+	:Nagi: Well, I had some unavoidable circumstances...
+	:SFX: moji *fidget*
+	:Nagi: What?
+	:Nagi: Has it been that long?
+	----
+	:Nagi: S... Sorry.
+	:Nagi: Truthfully,
+	:Nagi: I'm sorry for making you worry...
+	----
+	:Nagi: But I'm very happy that we're able to meet again!
+	:Nagi: The story continues from page 5!
+	----
+	==== Page 2: ====
+	:Jin: Nagi...?
+	<s>::''Toshi: [Text on the side worth translating?]''</s> ''no''
+	----
 
-==== Page 5: ====
-==== Page 6: ====
-<s>::''Toshi: [Missing sfx in the mini-panel at the top right.]''</s>
-:SFX: guru *somersault*
-----
-:Zange: She's completely absorbed all of Ozuma's power...!
-<s>::''Toshi: ["all of Ozuma's power"?]''</s>
-:Zange: Will my current divine power be enough...
-<s>::''aa: Consider a question mark or 'My current divine power/divinity may not be enough...'.''
-:::''Toshi: [A question mark isn't really needed for thoughts, unless the person is having a conversation with themselves...]''</s>
-:SFX: za za za *slide slide*
-<s>::''Toshi: [Suggesting "slide" for these sfx.]''</s>
-----
-<s>::''Toshi: [Missing text.]''</s>
-:Zange: Holy water...!
-----
-:SFX: bun *throw*
-----
-:SFX: pasha *splash*
-----
-`
+	==== Page 3: ====
+	==== Page 4: ====
+	Title:
+	Chapter 37: Cut Down Part 1
+	<s>::''Toshi: [Lots of text on this double page that should probably be translated.]''</s> ''Necro: We never do that sort of text.  Looks like a pain to redraw anyway''
+	----
+
+	==== Page 5: ====
+	==== Page 6: ====
+	<s>::''Toshi: [Missing sfx in the mini-panel at the top right.]''</s>
+	:SFX: guru *somersault*
+	----
+	:Zange: She's completely absorbed all of Ozuma's power...!
+	<s>::''Toshi: ["all of Ozuma's power"?]''</s>
+	:Zange: Will my current divine power be enough...
+	<s>::''aa: Consider a question mark or 'My current divine power/divinity may not be enough...'.''
+	:::''Toshi: [A question mark isn't really needed for thoughts, unless the person is having a conversation with themselves...]''</s>
+	:SFX: za za za *slide slide*
+	<s>::''Toshi: [Suggesting "slide" for these sfx.]''</s>
+	----
+	<s>::''Toshi: [Missing text.]''</s>
+	:Zange: Holy water...!
+	----
+	:SFX: bun *throw*
+	----
+	:SFX: pasha *splash*
+	----
+
