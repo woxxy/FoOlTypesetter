@@ -39,7 +39,7 @@ The SFX is grabbed between asterisks (if there are any asterisks at all) when `:
 An example
 ----------
 
-This is the standard that we use.
+This is the standard that we use. It's wiki-compatible.
 
 	==== Page 1: ====
 	:Nagi: Oh!
